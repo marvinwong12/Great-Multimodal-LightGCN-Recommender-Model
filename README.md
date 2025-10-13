@@ -57,3 +57,13 @@ This project uses the [Amazon Fashion dataset](https://nijianmo.github.io/amazon
 * `train_recommender_gat.py`: Trains the GAT model.
 * `train_recommender_lightgcn.py`: Trains the LightGCN model.
 * `Multi Modal Graph Recommender System.ipynb`: A Jupyter Notebook containing all the code for data processing, model training, and analysis.
+
+## Citations:
+Jianmo Ni, Jiacheng Li, Julian McAuley. Justifying recommendations using distantly-labeled reviews and fined-grained aspects. Empirical Methods in Natural Language Processing (EMNLP), 2019.
+
+@inproceedings{ni2019justifying,
+  title={Justifying recommendations using distantly-labeled reviews and fined-grained aspects},
+  author={Ni, Jianmo and Li, Jiacheng and McAuley, Julian},
+  booktitle={Empirical Methods in Natural Language Processing (EMNLP)},
+  year={2019}
+}
